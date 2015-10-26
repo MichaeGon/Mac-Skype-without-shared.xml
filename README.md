@@ -12,7 +12,9 @@ cd hs<br />
 cabal build<br />
 cd dist/build/install/<br />
 ./install<br />
+<br />
 または<br />
+<br />
 cd hs <br />
 ghc install.hs<br />
 ./install<br />
